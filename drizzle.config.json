@@ -2,6 +2,6 @@
   "dialect": "postgresql",
   "schema": "./src/db/schema.ts",
   "dbCredentials": {
-    "url": "postgresql://trading_e9kp_user:JkHpR7enrsOYLXAvgMmhuIQvQNzIKkCk@dpg-dbf2vqnavr4c73ckmdv0-a/trading_e9kp"
+    "url": "postgresql://don:JDzDFsEkhHws07x9i5WoKYGMk4OyQM9q@dpg-dbtimp56e07s7382m0q0-a/bigbull_db"
   }
 }
